@@ -1,0 +1,2 @@
+- Bu çalışma çoklu regrasyon modeli üzerinden model kurma ve çapraz doğrulama işlemi içermektedir.
+- Bur işlemde veri seti olarak proje ile beraber gelen .csv data base dosyası kulanılmaktadır.
